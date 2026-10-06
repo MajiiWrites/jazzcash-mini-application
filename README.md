@@ -22,7 +22,7 @@ The application provides an interactive menu where a user can authenticate using
 
 ## Application Flow
 
-text
+```text
 PIN Authentication
         ↓
     Main Menu
@@ -33,6 +33,7 @@ Balance Send    Mobile
 Check   Money    Load
         ↓         ↓
    Validation & Balance Update
+```
 
 Technology
 C++
@@ -41,12 +42,13 @@ Console Application
 Purpose
 The purpose of this project is educational. It was built to improve my programming fundamentals, problem-solving skills, and ability to convert a real-world workflow into a working program.
 
-Future Improvements
-Add repeated transactions using loops
-Add functions for different operations
-Improve input validation
-Add transaction history
-Improve the overall application structure
+## Future Improvements
+
+- Add repeated transactions using loops
+- Add functions for different operations
+- Improve input validation
+- Add transaction history
+- Improve the overall application structure
 
 
 Disclaimer
