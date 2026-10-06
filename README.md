@@ -35,11 +35,14 @@ Check   Money    Load
    Validation & Balance Update
 ```
 
-Technology
+Technology :
+
 C++
+
 Console Application
 
-Purpose
+
+Purpose :
 The purpose of this project is educational. It was built to improve my programming fundamentals, problem-solving skills, and ability to convert a real-world workflow into a working program.
 
 ## Future Improvements
@@ -51,5 +54,5 @@ The purpose of this project is educational. It was built to improve my programmi
 - Improve the overall application structure
 
 
-Disclaimer
+Disclaimer:
 This is an educational simulation and is not connected to the real JazzCash financial system.
